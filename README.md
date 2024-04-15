@@ -26,3 +26,8 @@
 <picture>
   <img alt="github-snake" src="https://github.com/Tech-Fear/Tech-Fear/blob/output/github-contribution-grid-snake.gif" />
 </picture>
+
+<p>
+  ![snake gif]
+  <img src="https://github.com/Tech-Fear/Tech-Fear/blob/output/github-contribution-grid-snake.gif"/>
+</p>
