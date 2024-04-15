@@ -23,6 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tech-fear&" alt="tech-fear" /></p>
 
-<p>
+<picture>
   <img alt="![snake gif]" src="https://github.com/Tech-Fear/Tech-Fear/blob/output/github-contribution-grid-snake.gif"/>
-</p>
+</picture>
