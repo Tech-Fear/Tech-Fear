@@ -24,5 +24,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tech-fear&" alt="tech-fear" /></p>
 
 <picture>
-  <img alt="github-snake" src="[github-snake.svg](https://github.com/Tech-Fear/Tech-Fear/blob/output/github-contribution-grid-snake.gif)" />
+  <img alt="github-snake" src="https://github.com/Tech-Fear/Tech-Fear/blob/output/github-contribution-grid-snake.gif" />
 </picture>
