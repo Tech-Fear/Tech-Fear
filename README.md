@@ -21,8 +21,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tech-fear&show_icons=true&locale=en" height="150" alt="tech-fear" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tech-fear&show_icons=true&locale=en" height="150" alt="tech-fear" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tech-Fear)](https://git.io/streak-stats)
+<img lign="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Fear" height="150" alt="tech-fear" />
 <p></p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-Fear&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
