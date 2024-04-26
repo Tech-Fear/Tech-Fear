@@ -28,7 +28,13 @@
 </div>
 <p></p>
 <p></p>
-
+<picture>
+  <img align="center" alt="github-snake" src="https://github.com/Tech-Fear/Tech-Fear/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+<div align="center">
+  <img align="center" alt="github-snake" src="./profile-3d-contrib/profile-night-green.svg" height="500" />
+</div>
+<!-- <img src="https://github-readme-stats.vercel.app/api/tech-fear?username=tech-fear"/> -->
 ### ✍️ Random Dev Quote
 <div align="center">
   
@@ -37,10 +43,3 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<picture>
-  <img align="center" alt="github-snake" src="https://github.com/Tech-Fear/Tech-Fear/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-<div align="center">
-  <img align="center" alt="github-snake" src="./profile-3d-contrib/profile-night-green.svg" height="500" />
-</div>
-<!-- <img src="https://github-readme-stats.vercel.app/api/tech-fear?username=tech-fear"/> -->
