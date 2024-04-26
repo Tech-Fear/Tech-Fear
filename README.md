@@ -27,6 +27,15 @@
 </div>
 <p></p>
 <p></p>
+
+### ✍️ Random Dev Quote
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+</div>
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 <picture>
   <img align="center" alt="github-snake" src="https://github.com/Tech-Fear/Tech-Fear/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
