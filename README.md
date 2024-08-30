@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajeet Singh</h1>
-<h3 align="center">A passionate Software & frontend developer from India</h3>
+<h3 align="center">A passionate Software & backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-fear&label=Profile%20views&color=0e75b6&style=flat" alt="tech-fear" /> </p>
 
